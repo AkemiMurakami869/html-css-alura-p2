@@ -5,3 +5,7 @@ header {
 new li {
     display: inline;
 }
+
+nav a {
+    text-transform: upercase;
+}
