@@ -2,9 +2,14 @@ header {
     background: #000000
 }
 
+.caixa {
+     width: 940px;
+    
+}
+
 nav {
     position: absolute;
-    top: 0;
+    top: 110;
     right: 0;
 
 nav li {
